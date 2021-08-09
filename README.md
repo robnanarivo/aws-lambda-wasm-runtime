@@ -2,7 +2,7 @@
 
 This project is aimed to demonstrate how to implement a Serverless Functions working with WebAssembly in AWS Lambda, using our [WasmEdge runtime](https://github.com/WasmEdge/WasmEdge). Docker is also required for this demo.
 
-The [main branch](https://github.com/second-state/aws-lambda-wasm-runtime/tree/main) showcases an image processing function, and the [tensorflow branch](https://github.com/second-state/aws-lambda-wasm-runtime/tree/tensorflow) showcases an AI inference function. Both written in simple Rust and runs in the [WasmEdge runtime](https://github.com/WasmEdge/WasmEdge) for WebAssembly.
+The [main branch](https://github.com/robnanarivo/aws-lambda-wasm-runtime/tree/main) showcases an image processing function, and the [tensorflow branch](https://github.com/robnanarivo/aws-lambda-wasm-runtime/tree/tensorflow) showcases an AI inference function. Both written in simple Rust and runs in the [WasmEdge runtime](https://github.com/WasmEdge/WasmEdge) for WebAssembly.
 
 ## Function Overview
 
