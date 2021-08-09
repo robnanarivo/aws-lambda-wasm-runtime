@@ -1,4 +1,4 @@
-## [Demo for image processing](https://secondstate.github.io/aws-lambda-wasm-runtime/) | [Demo for tensorflow](https://robnanarivo.github.io/aws-lambda-wasm-runtime/)
+## [Demo for image processing](https://second-state.github.io/aws-lambda-wasm-runtime/) | [Demo for tensorflow](https://robnanarivo.github.io/aws-lambda-wasm-runtime/)
 
 This project is aimed to demonstrate how to implement a Serverless Functions working with WebAssembly in AWS Lambda, using our [WasmEdge runtime](https://github.com/WasmEdge/WasmEdge). Docker is also required for this demo.
 
